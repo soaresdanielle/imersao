@@ -1,0 +1,36 @@
+BODY {
+background:AZURE;
+font-family: arial; 
+}
+
+.menu {
+  background-color:MEDIUMSLATEBLUE;
+}
+
+.menu li{
+  list-style:none;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around; 
+}
+
+a{
+  color: white;
+  
+  text-decoration:none;
+  }
+
+.site-subtitle,
+.site-title{
+  color: DEEPPINK;
+  text-align:center;
+  
+}
+
+.site-subtitle{
+  font-style:italic;
+}
+
+  
